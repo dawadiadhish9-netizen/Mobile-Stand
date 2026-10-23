@@ -2,18 +2,17 @@
 
 A simple **3D-modeled mobile phone stand** designed using CAD software.
 
-## 📌 About the Project
+## About the Project
 
 This project is a beginner CAD design created to practice **3D modeling, dimensions, and practical product design**.
 
 The goal was to design a simple stand that can hold a mobile phone at a convenient viewing angle while remaining stable and easy to manufacture.
 
-## 🛠️ Software Used
+## Software Used
 
 - **SolidWorks**
-- CAD / 3D Modeling
 
-## 🔧 Design Features
+##  Design Features
 
 - Stable base
 - Angled phone support
@@ -21,15 +20,14 @@ The goal was to design a simple stand that can hold a mobile phone at a convenie
 - Designed with manufacturability in mind
 - Can be modified for different phone sizes
 
-## 📐 Design Process
+## Design Process
 
 1. Planned the basic shape and dimensions.
 2. Created sketches with appropriate constraints.
 3. Built the 3D model using SolidWorks features.
-4. Checked the model for stability and usability.
-5. Made adjustments to improve the design.
+4. Made adjustments to improve the design.
 
-## 📁 Files
+## Files
 
 The repository contains:
 
@@ -38,7 +36,7 @@ The repository contains:
 - `.STEP` — CAD exchange format
 - Images of the final model
 
-## 🎯 What I Learned
+## What I Learned
 
 Through this project, I practiced:
 
@@ -48,7 +46,7 @@ Through this project, I practiced:
 - Iterating on a design
 - Organizing and documenting a CAD project
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
